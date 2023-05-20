@@ -14,6 +14,8 @@
     "forward_list": "cpp",
     "xhash": "cpp",
     "xutility": "cpp",
-    "string": "cpp"
+    "string": "cpp",
+    "tuple": "cpp",
+    "cstdlib": "cpp"
   }
 }

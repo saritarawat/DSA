@@ -10,7 +10,7 @@
 #include <algorithm>
 #include <string>
 #include <sstream>
-
+#include <tuple>
 using namespace std;
 
 struct Node
