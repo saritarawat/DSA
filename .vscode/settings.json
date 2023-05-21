@@ -16,6 +16,7 @@
     "xutility": "cpp",
     "string": "cpp",
     "tuple": "cpp",
-    "cstdlib": "cpp"
+    "cstdlib": "cpp",
+    "stack": "cpp"
   }
 }
